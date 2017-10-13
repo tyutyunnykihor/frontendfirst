@@ -1,1 +1,3 @@
-ignored*
+ignored* 
+/child/**/*.tmp
+!/child/file2.tmp
